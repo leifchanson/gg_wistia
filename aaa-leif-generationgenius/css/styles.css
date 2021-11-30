@@ -1,0 +1,11 @@
+
+#wistia_vid {
+    min-width: 100%;
+    min-height: 300px;
+}
+
+#wistia_vid > div,
+#wistia_vid > div > div {
+    min-width: 400px;
+    min-height: 300px;
+}
